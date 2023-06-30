@@ -22,6 +22,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-horizontal-scrolling-menu": "^4.1.0",
+    "react-hydration-provider": "^1.0.2",
     "react-icons": "^4.10.1"
   }
 }
