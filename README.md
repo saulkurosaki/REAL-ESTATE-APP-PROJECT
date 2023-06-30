@@ -1,38 +1,39 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# REAL-ESTATE-APP-PROJECT
 
-## Getting Started
+![Alt text](<1-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_38_14 a. m..png>)
 
-First, run the development server:
+![Alt text](<2-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_38_28 a. m..png>)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Alt text](<3-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_38_35 a. m..png>)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Alt text](<4-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_38_51 a. m..png>)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+![Alt text](<5-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_38_59 a. m..png>)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+![Alt text](<6-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_39_07 a. m..png>)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+![Alt text](<7-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_39_14 a. m..png>)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Alt text](<8-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_39_34 a. m..png>)
 
-## Learn More
+![Alt text](<9-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_39_47 a. m..png>)
 
-To learn more about Next.js, take a look at the following resources:
+![Alt text](<10-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_39_56 a. m..png>)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Alt text](<11-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_40_05 a. m..png>)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Alt text](<12-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_40_54 a. m..png>)
 
-## Deploy on Vercel
+![Alt text](<13-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_41_06 a. m..png>)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Alt text](<14-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_41_22 a. m..png>)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Alt text](<15-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_41_34 a. m..png>)
+
+![Alt text](<16-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_41_44 a. m..png>)
+
+![Alt text](<17-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_42_29 a. m..png>)
+
+![Alt text](<18-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_42_48 a. m..png>)
+
+![Alt text](<19-Real Estate y 3 páginas más - Personal_ Microsoft​ Edge 30_06_2023 01_43_03 a. m..png>)
