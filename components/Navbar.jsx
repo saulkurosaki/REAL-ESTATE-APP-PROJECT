@@ -14,16 +14,16 @@ const Navbar = () => (
       <Menu>
         <MenuButton as={IconButton} icon={<FcMenu />} variant='outline' color='red.400' />
         <MenuList>
-          <Link href='/' passHref>
+          <Link href='/' passHref legacyBehavior>
             <MenuItem icon={<FcHome />}>Home</MenuItem>
           </Link>
-          <Link href='/search' passHref>
+          <Link href='/search' passHref legacyBehavior>
             <MenuItem icon={<BsSearch />}>Search</MenuItem>
           </Link>
-          <Link href='/search?purpose=for-sale' passHref>
+          <Link href='/search?purpose=for-sale' passHref legacyBehavior>
             <MenuItem icon={<FcAbout />}>Buy Property</MenuItem>
           </Link>
-          <Link href='/search?purpose=for-rent' passHref>
+          <Link href='/search?purpose=for-rent' passHref legacyBehavior>
             <MenuItem icon={<FiKey />}>Rent Property</MenuItem>
           </Link>
         </MenuList>
